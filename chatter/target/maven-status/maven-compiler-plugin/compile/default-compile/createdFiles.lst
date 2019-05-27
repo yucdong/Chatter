@@ -1,0 +1,5 @@
+com\github\yucdong\chatter\service\Application.class
+com\github\yucdong\chatter\service\controllers\DialogController.class
+com\github\yucdong\chatter\contract\DialogResponse.class
+com\github\yucdong\chatter\service\controllers\KeepaliveController.class
+com\github\yucdong\chatter\contract\DialogRequest.class
